@@ -1,0 +1,11 @@
+C:\akira.lpg\ListaPooAppExer1\ListaPooAppExer1\bin\Debug\ListaPooAppExer1.exe.config
+C:\akira.lpg\ListaPooAppExer1\ListaPooAppExer1\bin\Debug\ListaPooAppExer1.exe
+C:\akira.lpg\ListaPooAppExer1\ListaPooAppExer1\bin\Debug\ListaPooAppExer1.pdb
+C:\akira.lpg\ListaPooAppExer1\ListaPooAppExer1\obj\Debug\ListaPooAppExer1.csproj.AssemblyReference.cache
+C:\akira.lpg\ListaPooAppExer1\ListaPooAppExer1\obj\Debug\ListaPooAppExer1.csproj.SuggestedBindingRedirects.cache
+C:\akira.lpg\ListaPooAppExer1\ListaPooAppExer1\obj\Debug\ListaPooAppExer1.Form1.resources
+C:\akira.lpg\ListaPooAppExer1\ListaPooAppExer1\obj\Debug\ListaPooAppExer1.Properties.Resources.resources
+C:\akira.lpg\ListaPooAppExer1\ListaPooAppExer1\obj\Debug\ListaPooAppExer1.csproj.GenerateResource.cache
+C:\akira.lpg\ListaPooAppExer1\ListaPooAppExer1\obj\Debug\ListaPooAppExer1.csproj.CoreCompileInputs.cache
+C:\akira.lpg\ListaPooAppExer1\ListaPooAppExer1\obj\Debug\ListaPooAppExer1.exe
+C:\akira.lpg\ListaPooAppExer1\ListaPooAppExer1\obj\Debug\ListaPooAppExer1.pdb
